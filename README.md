@@ -18,7 +18,7 @@ For this you could use your Browser or run the following command:
 `curl localhost:<port>/greeting/<name>`
 
 ## 4. Create a CI/CD Pipeline
-Fill out the provided `.gitla-ci.yml` file to provide a CI/CD Testpipeline for the Application.
+Fill out the provided `.gitlab-ci.yml` file to provide a CI/CD Testpipeline for the Application.
 
 ## 5. Test the created Image
 Test that the Container was successfully put to the Gitlab Docker Registry
